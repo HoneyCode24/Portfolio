@@ -26,8 +26,8 @@ I love building **modern, animated, and interactive web experiences** using clea
 
 ### 🍽️ Restaurant Website
 Modern animated restaurant website with smooth transitions, hover effects, and responsive design.
-- 🔗 Live: https://your-link.com
-- 💻 Code: https://github.com/yourrepo
+- 🔗 Live: (https://restarurant-v2.vercel.app/)
+- 💻 Code: (https://github.com/HoneyCode24/Restarurant-v2)
 
 ---
 
@@ -38,11 +38,6 @@ Personal portfolio with interactive UI and custom animations.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
 
 ## 🧠 Currently Learning
 
@@ -55,8 +50,8 @@ Personal portfolio with interactive UI and custom animations.
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: honeycodes24@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/honey-gupta-5b686b366/
 - 🌐 Portfolio: https://your-portfolio.com  
 
 ---
