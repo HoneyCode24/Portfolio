@@ -7,7 +7,7 @@ I love building **modern, animated, and interactive web experiences** using clea
 ---
 
 ## 🌐 Portfolio
-👉 Live Website: https://portfolio-p2uv9hypo-honeys-projects-8ac11084.vercel.app/
+👉 Live Website: [Click Here](https://portfolio-steel-tau-35.vercel.app/)
 
 ---
 
@@ -50,9 +50,9 @@ Personal portfolio with interactive UI and custom animations.
 
 ## 📫 Connect With Me
 
-- 📧 Email: honeycodes24@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/honey-gupta-5b686b366/
-- 🌐 Portfolio: https://portfolio-p2uv9hypo-honeys-projects-8ac11084.vercel.app/
+- 📧 Email: [Click Here](honeycodes24@gmail.com)  
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/honey-gupta-5b686b366/)
+- 🌐 Portfolio: [Click Here](https://portfolio-steel-tau-35.vercel.app/)
 
 ---
 
