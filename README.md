@@ -7,7 +7,7 @@ I love building **modern, animated, and interactive web experiences** using clea
 ---
 
 ## 🌐 Portfolio
-👉 Live Website: [Click Here]([https://your-live-link.com](https://portfolio-p2uv9hypo-honeys-projects-8ac11084.vercel.app/))
+👉 Live Website: https://portfolio-p2uv9hypo-honeys-projects-8ac11084.vercel.app/
 
 ---
 
