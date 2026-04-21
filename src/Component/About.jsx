@@ -1,9 +1,9 @@
 import React from "react";
 import "./About.css";
 
-import bgImg from "../assets/about-bg-image.png";
-import helmetImg from "../assets/helmet.png";
-import profileImg from "../assets/profile.png";
+import bgImg from "../Assets/about-bg-image.png";
+import helmetImg from "../Assets/helmet.png";
+import profileImg from "../Assets/profile.png";
 
 const About = () => {
   return (
