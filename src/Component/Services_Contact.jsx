@@ -192,7 +192,7 @@ const [status, setStatus] = useState("");
                 rel="noopener noreferrer" 
                  className="contact-method">
               <div className="cm-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c" stroke-width="1.5">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c"strokeWidth="1.5">
               <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
             </svg>
           </div>
@@ -207,7 +207,7 @@ const [status, setStatus] = useState("");
                     target="_blank"
                     rel="noopener noreferrer" className="contact-method">
               <div className="cm-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c" stroke-width="1.5">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c"  strokeWidth="1.5">
               <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"/>
             </svg>
           </div>
@@ -222,10 +222,10 @@ const [status, setStatus] = useState("");
                 target="_blank" 
                 rel="noopener noreferrer" className="contact-method">
               <div className="cm-icon">
-            <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c" stroke-width="1.5">
-              <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"/>
-              <circle cx="4" cy="4" r="2"/>
-            </svg>
+           <svg viewBox="0 0 24 24" fill="none" stroke="#b91c1c" strokeWidth="1.5">
+  <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z" />
+  <circle cx="4" cy="4" r="2" />
+</svg>
           </div>
               <div className="cm-info">
                 <div className="cm-label">// LinkedIn</div>
