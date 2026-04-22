@@ -67,7 +67,7 @@ const [status, setStatus] = useState("");
 
             <div className="pc-price-row">
               <div className="pc-currency">₹</div>
-              <div className="pc-amount">8K</div>
+              <div className="pc-amount">12K</div>
               <div className="pc-unit">onwards</div>
             </div>
 
@@ -97,7 +97,7 @@ const [status, setStatus] = useState("");
 
             <div className="pc-price-row">
               <div className="pc-currency">₹</div>
-              <div className="pc-amount">18K</div>
+              <div className="pc-amount">16K</div>
               <div className="pc-unit">onwards</div>
             </div>
 
@@ -120,14 +120,14 @@ const [status, setStatus] = useState("");
           <div className="price-card">
             <div className="pc-ghost">III</div>
 
-            <div className="pc-mark">// Mark III · Pro</div>
+            <div className="pc-mark">// Mark III · Pro  — "Coming Soon / Limited Availability"</div>
             <div className="pc-name">Web Application</div>
 
             <div className="pc-desc">Full React/Next.js web app with real functionality — dashboards, e-commerce, bookings, portals. Custom built.</div>
 
             <div className="pc-price-row">
               <div className="pc-currency">₹</div>
-              <div className="pc-amount">35K</div>
+              <div className="pc-amount">40K</div>
               <div className="pc-unit">onwards</div>
             </div>
 
