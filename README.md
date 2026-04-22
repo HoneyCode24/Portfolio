@@ -7,7 +7,7 @@ I love building **modern, animated, and interactive web experiences** using clea
 ---
 
 ## 🌐 Portfolio
-👉 Live Website: [Click Here](https://your-live-link.com)
+👉 Live Website: [Click Here](https://portfolio-steel-tau-35.vercel.app/)
 
 ---
 
@@ -33,8 +33,8 @@ Modern animated restaurant website with smooth transitions, hover effects, and r
 
 ### 🎨 Portfolio Website 
 Personal portfolio with interactive UI and custom animations.
-- 🔗 Live: https://your-link.com
-- 💻 Code: https://github.com/yourrepo
+- 🔗 Live: https://portfolio-p2uv9hypo-honeys-projects-8ac11084.vercel.app/
+- 💻 Code: https://github.com/HoneyCode24/Portfolio
 
 ---
 
@@ -50,9 +50,9 @@ Personal portfolio with interactive UI and custom animations.
 
 ## 📫 Connect With Me
 
-- 📧 Email: honeycodes24@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/honey-gupta-5b686b366/
-- 🌐 Portfolio: https://your-portfolio.com  
+- 📧 Email: [Click Here](honeycodes24@gmail.com)  
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/honey-gupta-5b686b366/)
+- 🌐 Portfolio: [Click Here](https://portfolio-steel-tau-35.vercel.app/)
 
 ---
 
