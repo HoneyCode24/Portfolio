@@ -76,7 +76,7 @@ const Hero = () => {
 
             <div className="btn-row">
               <a href="#work" className="btn-primary">View My Work</a>
-              <a href="/Harry_CV_Frontend_Developer.pdf" download target="_blank" className="btn-secondary">Download CV</a>
+              <a href="/Resume.pdf" download target="_blank" className="btn-secondary">Download CV</a>
             </div>
           </div>
 
@@ -110,35 +110,7 @@ const Hero = () => {
         </div>
 
       </div>
-
-      {/* DESIGN SPECS */}
-      {/* <div
-        style={{
-          background: "#f0f0ee",
-          padding: "1rem 1.25rem",
-          fontFamily: "Space Mono, monospace",
-          fontSize: "11px",
-          color: "#6b6b6b",
-          borderTop: "0.5px solid #e0e0e0",
-          lineHeight: 1.9
-        }}
-      >
-        <div style={{ fontWeight: 700, color: "#0a0a0a", marginBottom: ".5rem", fontSize: "12px" }}>
-          Design specs — exact values
-        </div>
-
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fit,minmax(220px,1fr))",
-            gap: ".5rem"
-          }}
-        >
-          <div><span style={{ color: "#b91c1c" }}>Navbar padding:</span> 22px top/bottom · 48px left/right</div>
-          <div><span style={{ color: "#b91c1c" }}>Logo font:</span> Space Mono 13px · weight 700</div>
-          <div><span style={{ color: "#b91c1c" }}>Hero name:</span> Bebas Neue · 112px</div>
-        </div>
-      </div> */}
+      
     </>
   );
 };

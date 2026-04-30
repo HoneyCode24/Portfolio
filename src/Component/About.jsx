@@ -144,7 +144,7 @@ const About = () => {
 
             <div className="about-cta">
               <a href="#work" className="cta-main">See My Work</a>
-              <a href="/Harry_CV_Frontend_Developer.pdf" download target="_blank" className="cta-ghost">Download CV</a>
+              <a href="/Resume.pdf" download target="_blank" className="cta-ghost">Download CV</a>
             </div>
 
           </div>
